@@ -1,0 +1,36 @@
+{
+    "themeOnePricingSection": {
+        "iconClass": "far fa-lightbulb text-primary mr-1",
+        "preHeading": "Flexible",
+        "preHeadingspan": "Pricing",
+        "heading": "Membreship plan",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "text": "Vous ne savez pas quoi choisir? ",
+        "textLink": "Nous-contacter",
+        "pricingData": [
+            {
+                "id": 1,
+                "planImage": "/img/price_basic.png",
+                "planTitle": "Basic",
+                "priceSub": "$",
+                "planPrice": "49",
+                "planBtn": "Sign Up",
+                "li_1": "10 profile a consulter",
+                "li_2": "15 missions",
+                "li_3": "24/7 Tech Support"
+            },
+            {
+                "id": 2,
+                "planImage": "/img/price_premium.png",
+                "planTitle": "Pro",
+                "priceSub": "$",
+                "planPrice": "149",
+                "planBtn": "Sign Up",
+                "li_1": "20 profile a consulter",
+                "li_2": "30 missions",
+                "li_3": "24/7 Tech Support"
+            }
+        ]
+    }
+    }
